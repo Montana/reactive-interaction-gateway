@@ -1,0 +1,7 @@
+{
+  "docs": {
+    "For Developers": ["intro", "getting-started", "user-authentication", "api-gateway"],
+    "RIG in Production": ["rig-ops-guide"],
+    "Hacking the Source": ["rig-dev-guide"]
+  }
+}
